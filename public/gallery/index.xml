@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Andrew Hill | Web Developer</title>
+    <link>http://dev.andrewhill.io/gallery/</link>
+    <description>Recent content in Galleries on Andrew Hill | Web Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Mon, 11 Sep 2017 12:32:37 -0400</lastBuildDate>
+    
+	<atom:link href="http://dev.andrewhill.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KP Fire Girl&#39;s Fastpitch</title>
+      <link>http://dev.andrewhill.io/gallery/kpfire/</link>
+      <pubDate>Mon, 11 Sep 2017 12:32:37 -0400</pubDate>
+      
+      <guid>http://dev.andrewhill.io/gallery/kpfire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moviepass Theater Search</title>
+      <link>http://dev.andrewhill.io/gallery/moviepass/</link>
+      <pubDate>Mon, 11 Sep 2017 12:32:37 -0400</pubDate>
+      
+      <guid>http://dev.andrewhill.io/gallery/moviepass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socrates</title>
+      <link>http://dev.andrewhill.io/gallery/socrates/</link>
+      <pubDate>Mon, 11 Sep 2017 12:29:57 -0400</pubDate>
+      
+      <guid>http://dev.andrewhill.io/gallery/socrates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

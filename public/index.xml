@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Hill | Web Developer</title>
+    <link>http://dev.andrewhill.io/</link>
+    <description>Recent content on Andrew Hill | Web Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Mon, 11 Sep 2017 12:32:37 -0400</lastBuildDate>
+    
+	<atom:link href="http://dev.andrewhill.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KP Fire Girl&#39;s Fastpitch</title>
+      <link>http://dev.andrewhill.io/gallery/kpfire/</link>
+      <pubDate>Mon, 11 Sep 2017 12:32:37 -0400</pubDate>
+      
+      <guid>http://dev.andrewhill.io/gallery/kpfire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moviepass Theater Search</title>
+      <link>http://dev.andrewhill.io/gallery/moviepass/</link>
+      <pubDate>Mon, 11 Sep 2017 12:32:37 -0400</pubDate>
+      
+      <guid>http://dev.andrewhill.io/gallery/moviepass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socrates</title>
+      <link>http://dev.andrewhill.io/gallery/socrates/</link>
+      <pubDate>Mon, 11 Sep 2017 12:29:57 -0400</pubDate>
+      
+      <guid>http://dev.andrewhill.io/gallery/socrates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Beginning</title>
+      <link>http://dev.andrewhill.io/blog/the-beginning/</link>
+      <pubDate>Mon, 11 Sep 2017 12:29:27 -0400</pubDate>
+      
+      <guid>http://dev.andrewhill.io/blog/the-beginning/</guid>
+      <description>This is a test post</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://dev.andrewhill.io/about/</link>
+      <pubDate>Sun, 10 Sep 2017 15:58:30 -0400</pubDate>
+      
+      <guid>http://dev.andrewhill.io/about/</guid>
+      <description>I&amp;rsquo;m a full stack software developer. I graduated from the University of Louisville with a degree in Computer Information Systems with concentrations in Web Development and Information Security. I currently volunteer as a mentor for Code Louisville, a program that teaches students about the wonderful world of programming and how it all works. I have a passion for building websites that not only look nice, but serve a purpose. I want to solve a problem with the work I do.</description>
+    </item>
+    
+  </channel>
+</rss>

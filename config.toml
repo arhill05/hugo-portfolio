@@ -1,5 +1,5 @@
 title = "Andrew Hill | Web Developer"
-baseURL = "https://andrewhill.io"
+baseURL = "http://dev.andrewhill.io"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
@@ -23,7 +23,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     highlightJS = true
     copyright = true
     credit = true
-    customCSS = false
+    customCSS = true
     cacheBustCSS = false
     cacheBustJS = false
     ajaxFormspree = true

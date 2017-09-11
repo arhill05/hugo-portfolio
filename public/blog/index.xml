@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Andrew Hill | Web Developer</title>
+    <link>http://dev.andrewhill.io/blog/</link>
+    <description>Recent content in Blogs on Andrew Hill | Web Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Mon, 11 Sep 2017 12:29:27 -0400</lastBuildDate>
+    
+	<atom:link href="http://dev.andrewhill.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Beginning</title>
+      <link>http://dev.andrewhill.io/blog/the-beginning/</link>
+      <pubDate>Mon, 11 Sep 2017 12:29:27 -0400</pubDate>
+      
+      <guid>http://dev.andrewhill.io/blog/the-beginning/</guid>
+      <description>This is a test post</description>
+    </item>
+    
+  </channel>
+</rss>
